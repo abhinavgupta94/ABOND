@@ -1,0 +1,7 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">ABOND</string>
+    <string name="hello">Hello</string>
+    <string name="ref">this is a reference</string>
+
+</resources>
